@@ -2155,6 +2155,7 @@ button:disabled,
   font-size: 3em;
   line-height: 1.25em;
   margin: 0;
+  text-shadow: rgb(93, 90, 90) 0.5px 0.5px 0.7px;
 }
 #header header h1:after {
   margin-top: 0.5em;
@@ -2163,6 +2164,7 @@ button:disabled,
   color: #ffffff;
   font-weight: 700;
   margin: 1.5em 0 0 0;
+  text-shadow: rgb(93, 90, 90) 0.5px 0.5px 0.9px;
 }
 #header .container {
   background: rgba(255, 255, 255, 0.95);
